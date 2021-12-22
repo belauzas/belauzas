@@ -21,6 +21,9 @@
     <a href="https://discord.gg/dRwW4rw" target="blank">
         <img align="center" src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" alt="belauzas" height="30" width="39" />
     </a>
+    <a href="https://www.youtube.com/c/RimantasBelovas" target="blank">
+        <img align="center" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="belauzas" height="40" width="40" />
+    </a>
     <a href="https://www.codewars.com/users/belauzas" target="blank">
         <img align="center" src="https://www.codewars.com/assets/logos/logo-61192cf7c75904d495e7ad69695fbf0bffd965bc3e17ac60f6c6b475304db09d.svg" alt="dalyvis" height="30" width="30" />
     </a>
