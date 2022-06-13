@@ -25,7 +25,7 @@
         <img align="center" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="belauzas" height="40" width="40" />
     </a>
     <a href="https://www.codewars.com/users/belauzas" target="blank">
-        <img align="center" src="https://www.codewars.com/assets/logos/logo-61192cf7c75904d495e7ad69695fbf0bffd965bc3e17ac60f6c6b475304db09d.svg" alt="dalyvis" height="30" width="30" />
+        <img align="center" src="https://global-uploads.webflow.com/62462834c60df92621c6b5be/62462c29f3165b55ea6255ea_light-text-logo-vertical.svg" alt="dalyvis" height="36" width="30" />
     </a>
     <a href="https://twitter.com/belauzas" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="belauzas" height="30" width="30" />
