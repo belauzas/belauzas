@@ -18,7 +18,7 @@
     <a href="https://linkedin.com/in/rimantasbelovas/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="belauzas" height="30" width="30" />
     </a>
-    <a href="https://discord.gg/dRwW4rw" target="blank">
+    <a href="https://belauzas.github.io/discord-invite" target="blank">
         <img align="center" src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" alt="belauzas" height="30" width="39" />
     </a>
     <a href="https://www.youtube.com/c/RimantasBelovas" target="blank">
