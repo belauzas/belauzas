@@ -15,19 +15,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/rimantasbelovas/" target="blank">
+    <a href="https://linkedin.com/in/rimantasbelovas/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="belauzas" height="30" width="30" />
     </a>
-    <a href="https://belauzas.github.io/discord-invite" target="blank">
+    <a href="https://belauzas.github.io/discord-invite" target="_blank">
         <img align="center" src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" alt="belauzas" height="30" width="39" />
     </a>
-    <a href="https://www.youtube.com/c/RimantasBelovas" target="blank">
+    <a href="https://www.youtube.com/c/RimantasBelovas" target="_blank">
         <img align="center" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="belauzas" height="40" width="40" />
     </a>
-    <a href="https://www.codewars.com/users/belauzas" target="blank">
+    <a href="https://www.codewars.com/users/belauzas" target="_blank">
         <img align="center" src="https://global-uploads.webflow.com/62462834c60df92621c6b5be/62462c29f3165b55ea6255ea_light-text-logo-vertical.svg" alt="dalyvis" height="36" width="30" />
     </a>
-    <a href="https://twitter.com/belauzas" target="blank">
+    <a href="https://twitter.com/belauzas" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="belauzas" height="30" width="30" />
     </a>
 </p>
