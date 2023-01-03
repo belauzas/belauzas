@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on ["Gudrutis Dutis"](https://gudrutisdutis.lt/) learning platform
 
-- 🌱 I’m currently learning **Go**, **Rust**
+- 🌱 I’m currently learning **Rust**, **Go**
 
 - 👯 I’m looking to collaborate on **Complex UI/Javascript**
 
